@@ -282,3 +282,32 @@ color: #FF0000;
     color: #fff;
     padding: 30px;
 }
+
+
+
+
+
+
+
+#white-bar {
+    width: 2px;
+    background-color: white;
+    display: inline;
+    padding: 0.5px;
+    margin-left: 8px;
+    padding-top: 0px;
+    padding-bottom: 2px;
+}
+
+#caption-text {
+    display: inline;
+    font-size: 10px;
+    margin: 0;
+    word-wrap: break-word;
+}
+
+#caption-text p {
+    display: inline;
+    padding-left: 15px;
+    padding-right: 10px;
+}
